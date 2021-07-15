@@ -6,7 +6,8 @@
   "author": "rizanw",
   "license": "MIT",
   "scripts": {
-    "dev": "snowpack dev"
+    "start": "snowpack dev --port 3000",
+    "build": "snowpack build"
   },
   "dependencies": {
     "aframe": "^1.2.0",
