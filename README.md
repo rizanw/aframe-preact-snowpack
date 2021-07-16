@@ -1,4 +1,4 @@
-# aframe-preact-snowpack Boilerplate  
+# aframe-preact-snowpack Example  
   
 ## Getting Started  
    
