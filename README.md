@@ -2,7 +2,7 @@
 
 A small WebXR scene built with [A-Frame](https://aframe.io), [Preact](https://preactjs.com), and [Snowpack](https://www.snowpack.dev): a rotating cube floating over a starry landscape that changes color when you look at it or click it. It runs in the browser on desktop and mobile, and in VR headsets.
 
-This repo accompanies my tutorial **[How I Built WebXR using A-Frame, Preact, & Snowpack](https://medium.com/hexavara-tech/how-i-built-webxr-using-a-frame-preact-snowpack-6cee19c72d81)** on the Hexavara Tech blog.
+This repo accompanies my tutorial **[How I Built WebXR using A-Frame, Preact, & Snowpack](https://medium.com/hexavara-tech/how-i-built-webxr-using-a-frame-preact-snowpack-6cee19c72d81)** on the medium blog.
 
 **[▶ Live demo](https://hello-virtualworld.surge.sh)**
 
